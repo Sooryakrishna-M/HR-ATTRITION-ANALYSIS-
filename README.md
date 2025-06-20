@@ -23,8 +23,6 @@ Attrition by Gender.
 Attrition by Years of Working.
 Attrition based on Overtime.
 
-📎 Output: [HR Attrition Analysis.pdf]
-
 2.Model Accuracy Report + Confusion Matrix:
 Trained classification model using Logistic Regression.
 Accuracy score and confusion matrix for performance evaluation.
