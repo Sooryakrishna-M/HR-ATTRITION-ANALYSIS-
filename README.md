@@ -35,6 +35,7 @@ Data preprocessing and feature engineering steps included.
 A PDF summarizing actionable steps HR teams can take based on data insights and model outcomes.
 
 **Tools & Technologies**
+-------------------------------
 Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
 
 Jupyter Notebook
@@ -44,6 +45,7 @@ Power BI Desktop
 CSV Dataset: Cleaned HR data file (cleaned_hr_data.csv)
 
 ** Data Analysis & Modeling Steps**
+-------------------------------------------
 1. Data Cleaning
 Loaded the HR dataset and removed irrelevant columns.
 Handled categorical variables through encoding.
@@ -70,6 +72,7 @@ Created clean, HR-friendly visuals for actionable insight,
 exported dashboard to PDF format.
 
 ** Key Insights**
+----------------------------
 Employees working overtime have significantly higher attrition rates.
 The Research & Development department sees the most attrition.
 Early-career employees (0–5 years) are at higher risk.
