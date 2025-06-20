@@ -44,7 +44,7 @@ Power BI Desktop
 
 CSV Dataset: Cleaned HR data file (cleaned_hr_data.csv)
 
-** Data Analysis & Modeling Steps**
+Data Analysis & Modeling Steps
 -------------------------------------------
 1. Data Cleaning
 Loaded the HR dataset and removed irrelevant columns.
@@ -71,7 +71,7 @@ Imported dataset into Power BI,
 Created clean, HR-friendly visuals for actionable insight,
 exported dashboard to PDF format.
 
-** Key Insights**
+Key Insights
 ----------------------------
 Employees working overtime have significantly higher attrition rates.
 The Research & Development department sees the most attrition.
